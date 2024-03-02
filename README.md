@@ -47,13 +47,7 @@ Besides trying to make the content easy to follow, here summarizes the uniquenes
 <hr>
 
 ## How did I come up with this book?
-Preparing for the coding interview is not easy! Cracking the coding interview? Nearly impossible for most of us! Luck does play a role in the outcome. So, let's just treat it as a learning process and have some fun!
-
-Computer Science is really not just computer science. It is a combination of all fields; our normal interview problems fall into the enumerative combinatorics and our computer vision mostly consists of Linear Algebra. What really matters is our passion to learn and the ability to apply this knowledge to solve real-life problems. 
-
-There are plenty of books out there focusing on either teaching algorithmic knowledge  (*Introduction to Algorithms*, *Algorithmic Problem Solving*, etc) or introducing the interview process and solving interview problems(*Cracking the Coding Interview*, *Coding Interview Questions*, etc), but none of these books truly combine the two. This is a book designed to make up this role in the categorization. Principle, Pattern, and Leetcode Problems make up the core of this book.
-
-This is **NOT** a book that provides hiring statistics for each company or gives the reader quick tricks in order to pass a few coding interviews.  Its purpose is to show you the beauty of algorithmic problem solving in the hope that you will be more passionate and confident about software engineering; the interview questions just set up a playground where we strengthen what we learn. 
+Preparing for coding interviews can be daunting, and cracking them might seem nearly impossible for many of us. However, it's essential to view the process as a learning opportunity and find enjoyment in it. 
 <hr>
 
 ## For Readers
