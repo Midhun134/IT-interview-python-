@@ -51,6 +51,7 @@ Preparing for coding interviews can be daunting, and cracking them might seem ne
 Computer science encompasses a wide range of fields beyond just programming. Interview problems often touch on areas like enumerative combinatorics and linear algebra, highlighting the interdisciplinary nature of the subject. What truly matters is our enthusiasm for learning and our ability to apply that knowledge to solve real-world problems.
 
 While there are many books available that focus on teaching algorithms or preparing for interviews, few effectively combine the two. This book aims to fill that gap by integrating algorithmic principles, problem-solving patterns, and hands-on LeetCode problems into one cohesive resource.
+Unlike books that provide hiring statistics or quick tricks for passing interviews, this book's goal is to showcase the beauty of algorithmic problem-solving. By doing so, it aims to inspire readers to become more passionate and confident software engineers. The interview questions serve as a playground where readers can apply and reinforce what they've learned.
 <hr>
 
 ## For Readers
