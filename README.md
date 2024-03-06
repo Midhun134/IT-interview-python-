@@ -35,7 +35,7 @@ All contributors (with decent amount of contributions) will be listed as authors
 </p>
 
 
-In short, this is a middle-to-high level algorithm book designed with cracking coding interviews at hearts. It offers a one-stop coding interview prep experience. The structure of the book: 
+In short, this is a middle-to-high level algorithm book designed with cracking coding interviews at heart. It offers a one-stop coding interview prep experience. The structure of the book: 
 * **Preparation**: introduce the global picture of algorithmic problem solving and coding interviews, learn abstract data structures and highly related and useful math such as recurrence relation, and hands-on Python practice by relating the abstract data structures to Python data structures. *Coding is not just code after all.*, 
 * **Principles**: we organize the design and principle here so that readers can use them as guidance while not seeking for peculiar algorithm for solving a problem. 
 * **Classical algorithms**: We enhance our algorithm database via learning how to apply the core principles to a variety of classical problems. A database that we can quickly relate to when seeing problems.
